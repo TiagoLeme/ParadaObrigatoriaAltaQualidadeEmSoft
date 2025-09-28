@@ -17,3 +17,8 @@ Esse é o repositório do projeto MeuConvers$r. Essa aplicação é direcionada 
 - [ ] Modelo de machine learning pode sugerir o quanto a moeda vai valer no futuro 
 - [ ] Indicações de onde comprar a moeda
 
+## Conteúdo do repositório 
+
+- [ ] Na pasta `App` versão inicial das funcionalidades do aplicativo e de testes;
+- [ ] Quadro Kanban da atual sprint do projeto;
+- [ ] No diretório raiz, documento inicial do projeto
