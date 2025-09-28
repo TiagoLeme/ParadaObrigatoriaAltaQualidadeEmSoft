@@ -1,6 +1,6 @@
-# Nome do Projeto
+# MeuConvers$r
 
-![Logo do Projeto](/home/tiago/Documentos/Projetos/python/ParadaObrigatoria/logo.png)
+![Logo do Projeto](logo.png)
 
 ## 📋 Introdução
 
