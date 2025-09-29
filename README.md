@@ -22,3 +22,9 @@ Esse é o repositório do projeto MeuConvers$r. Essa aplicação é direcionada 
 - [ ] Na pasta `App` versão inicial das funcionalidades do aplicativo e de testes;
 - [ ] Quadro Kanban da atual sprint do projeto;
 - [ ] No diretório raiz, documento inicial do projeto
+
+
+## Para executar
+
+Para executar as funcionalidades do projeto, é preciso ter o Python instalado localmente. 
+Também é possivel executar em alguma IDE online. 
